@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPC</string>
+        <string-array name="data">
+            <item>frequence</item>
+            <item>iac</item>
+            <item>idc</item>
+            <item>uac</item>
+            <item>udc</item>
+            <item>debit</item>
+        </string-array>
+</resources>
